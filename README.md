@@ -1,8 +1,8 @@
-# umarsha24689-cloud.github.io
+# umar-cloud-devops.github.io
 
 Personal portfolio of **Umar Mukthar N** — DevOps & Cloud Engineer.
 
-**Live:** https://umarsha24689-cloud.github.io
+**Live:** https://umar-cloud-devops.github.io
 
 ## Stack
 
